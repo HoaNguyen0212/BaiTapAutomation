@@ -18,6 +18,6 @@ public class IFELSE {
         checkNumber(100);
         checkNumber(50);
         checkNumber(150);
-        
+
     }
 }
