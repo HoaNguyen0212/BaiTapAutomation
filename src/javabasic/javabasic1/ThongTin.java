@@ -1,4 +1,4 @@
-package javabasic;
+package javabasic.javabasic1;
 
 public class ThongTin {
 
